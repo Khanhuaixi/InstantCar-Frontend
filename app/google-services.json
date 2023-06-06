@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "852148862189",
+    "firebase_url": "https://insta-88c4a-default-rtdb.firebaseio.com",
+    "project_id": "insta-88c4a",
+    "storage_bucket": "insta-88c4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852148862189:android:abac35b57d942343dee0e4",
+        "android_client_info": {
+          "package_name": "com.example.instantcar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852148862189-r4fm9hb3j8bp3jg70ek7rkif0p6nro3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM9EBMJROwaj-RNnOKFJPQNOu9SWetgOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852148862189-r4fm9hb3j8bp3jg70ek7rkif0p6nro3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

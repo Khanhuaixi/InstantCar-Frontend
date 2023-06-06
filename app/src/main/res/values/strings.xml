@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">InstantCar</string>
+    <string name="register">Register</string>
+    <string name="register_title">InstantCar\nRegister Account</string>
+    <string name="enter_first_name">Enter first name</string>
+    <string name="enter_last_name">Enter last name</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="back_to_login"><u>Back to Login</u></string>
+    <string name="login_title">InstantCar\nLogin</string>
+    <string name="login">Login</string>
+    <string name="do_not_have_account_register_here"><u>Do not have account? Register here!</u></string>
+    <string name="explore">Explore</string>
+    <string name="booking">Booking</string>
+    <string name="account">Account</string>
+    <string name="log_out">Log Out</string>
+    <string name="delete_account"><u>Delete Account</u></string>
+    <string name="first_name">First Name:</string>
+    <string name="email_text">Email:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="account_title">Account</string>
+    <string name="our_models">Our Models</string>
+    <string name="over_car_models_for_you_to_choose">Over {} car models for you to choose</string>
+    <string name="payment_method">Payment Method:</string>
+    <string name="maybank">Maybank</string>
+    <string name="affin_bank">Affin Bank</string>
+    <string name="cimb_bank">CIMB Bank</string>
+    <string name="public_bank">Public Bank</string>
+    <string name="booking_placed_successfully">Booking Placed Successfully!</string>
+    <string name="see_bookings">See Booking</string>
+    <string name="bookings_can_be_seen_in_bookings_tab">Booking can be seen in Booking Tab</string>
+    <string name="booking_placed_successfully_content_description">booking placed successfully</string>
+    <string name="car_image">Car Image</string>
+
+
+</resources>

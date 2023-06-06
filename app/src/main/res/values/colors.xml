@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--    brand colour-->
+    <color name="brightTurquoise">#08D4FC</color>
+    <!--    text colour-->
+    <color name="veniceBlue">#094a9b</color>
+    <color name="ebonyClay">#27323D</color>
+    <color name="oxfordBlue">#364551</color>
+    <color name="nevada">#636F7B</color>
+    <!--    background colour-->
+    <color name="white">#FEFFFF</color>
+    <!--    navigation bar icon-->
+    <color name="dodgerBlue">#3498F4</color>
+    <color name="heather">#bcc4d3</color>
+    <!--    alert colour-->
+    <color name="burntSienna">#ef7166</color>
+
+    <color name="colorPrimary">#08D4FC</color>
+    <color name="colorPrimaryDark">#3498F4</color>
+    <color name="colorAccent">#3498F4</color>
+    <color name="textColorPrimary">#27323D</color>
+
+</resources>
